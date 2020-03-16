@@ -1,7 +1,7 @@
 # 院内売店地図Map 試作用
 [WEBページサンプル](https://alcbm1.github.io/Map_Project/ "WEBページサンプル")
 
-[住所データベース](https://docs.google.com/spreadsheets/d/1AF_0ZFub5KFy8n0HSASf2dZ5SsuYK4Xrbx_F3P32Mcc/edit#gid=0 "住所データベース")
+[住所データベース](https://drive.google.com/open?id=1zRKRh0DmlhYannyeDRI0YJIxHgkrCzr9koPMXxNT_YI "住所データベース")
 
 ## インプット
 - 2020.2.26 水 吉田部長と打合せ
