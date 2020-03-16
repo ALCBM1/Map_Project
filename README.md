@@ -20,7 +20,7 @@
 ## 開発メモ
 - 施設リストをスプレッドシートに作成、読み込めるようにする
 - Bootstrap → https://getbootstrap.com/docs/3.3/
-- GoogleCloudPlatfrom ダッシュボード → https://console.cloud.google.com/
+- GoogleCloudPlatform ダッシュボード → https://console.cloud.google.com/
 
 ## 参考
 - https://qiita.com/champierre/items/e7758b69b39476148492
