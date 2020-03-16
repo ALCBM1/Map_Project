@@ -118,19 +118,6 @@
               console.log("完了");
           });
 
-          var request = new XMLHttpRequest();
-          request.open('GET', `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/sheet1?key=${API_KEY}`, true);
-          request.responseType = 'json';
-
-          request.onload = function () {
-            var data = this.response;
-            var markerData = parseData(data);
-            //setData(markerData);
-
-
-
-          };
-          request.send();
         }
         function error() {
         }
