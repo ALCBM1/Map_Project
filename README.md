@@ -1,5 +1,5 @@
 # 院内売店地図Map 試作用
-[WEBページサンプル](https://ken1127-dev.github.io/Map_Project/ "WEBページサンプル")
+[WEBページサンプル](https://alcbm1.github.io/Map_Project/ "WEBページサンプル")
 
 [住所データベース](https://docs.google.com/spreadsheets/d/1AF_0ZFub5KFy8n0HSASf2dZ5SsuYK4Xrbx_F3P32Mcc/edit#gid=0 "住所データベース")
 
